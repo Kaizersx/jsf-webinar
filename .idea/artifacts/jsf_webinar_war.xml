@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="jsf-webinar:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="jsf-webinar-1.0-SNAPSHOT.war">
+    <root id="archive" name="jsf-webinar.war">
       <element id="artifact" artifact-name="jsf-webinar:war exploded" />
     </root>
   </artifact>
