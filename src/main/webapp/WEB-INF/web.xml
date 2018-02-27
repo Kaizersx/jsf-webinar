@@ -11,6 +11,7 @@
     </context-param>
 
     <!-- Welcome page -->
+    <!--здесь указывается файл , который будет исполнятся в том случае, если не указали никакой файл -->
     <welcome-file-list>
         <welcome-file>index.xhtml</welcome-file>
     </welcome-file-list>
